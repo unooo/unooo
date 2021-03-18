@@ -10,7 +10,7 @@ Good day! I am Hyunwoo Yoon whio is interested in Backend with Java, Javascript
 
 2018.09 - 2019.10 :office: BKSNP R&D Solution Developer(병역특례 SW 연구원)-Web & Window Application programming
 
-# 병역특례 경력기술서 
+### 병역특례 경력기술서 
 <object data="https://github.com/unooo/unooo/files/6163550/_2017_09-2019_10.txt" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/unooo/unooo/files/6163550/_2017_09-2019_10.txt">
         <p>Please download the PDF to view it: <a href="https://github.com/unooo/unooo/files/6163550/_2017_09-2019_10.txt">Download PDF</a>.</p>
