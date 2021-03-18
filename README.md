@@ -13,7 +13,7 @@ Good day! I am Hyunwoo Yoon whio is interested in Backend with Java, Javascript
 ### 병역특례 경력기술서 
 <object data="https://github.com/unooo/unooo/files/6163550/_2017_09-2019_10.txt" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/unooo/unooo/files/6163550/_2017_09-2019_10.txt">
-        <p>Please download the PDF to view it: <a href="https://github.com/unooo/unooo/files/6163550/_2017_09-2019_10.txt">Download PDF</a>.</p>
+        <p>Please download the TXT to view it: <a href="https://github.com/unooo/unooo/files/6163550/_2017_09-2019_10.txt">Download TXT</a>.</p>
     </embed>
 </object>
 
