@@ -4,7 +4,7 @@ Good day! I am Hyunwoo Yoon whio is interested in Backend with Java, Javascript
 
 ### Experience
 
-2014.03 - 2021.02 :school: Soongsil Computer Science & Engineering
+<!--2014.03 - 2021.02 :school: Soongsil Computer Science & Engineering-->
 
 2016.12 - 2017.09 ⚡Lectopia SW Academy Completion( C/C++,Java,J2EE-MVC,DB,Javascript,Spring)
 
