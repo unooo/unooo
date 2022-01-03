@@ -10,6 +10,8 @@ Good day! I am Hyunwoo Yoon whio is interested in Backend with Java, Javascript
 
 2018.09 - 2019.10 :office: BKSNP R&D Solution Developer(병역특례 SW 연구원)-Web & Window Application programming
 
+2021.05 - 2021.07 🏢: 가비아(gabia) - Backend Engineer
+
 2021.09 ~ 🏢: 삼성전자(samsung electronics) SW Engineer - Solution Product Engineering
 
 ## Let Me Introduce
