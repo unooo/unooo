@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Good day! I am Hyunwoo Yoon whio is interested in Backend with Java, Javascript
+Good day! I am Hyunwoo Yoon whio is interested in Backend with Spring for Java and Nodejs for Javascript 
 
 ### Experience
 
@@ -12,6 +12,7 @@ Good day! I am Hyunwoo Yoon whio is interested in Backend with Java, Javascript
 
 2021.05 - 2021.07 🏢: 가비아(gabia) - Backend Engineer
 
+#### NOW!! SW Quality Engineer for Memory Device
 2021.09 ~ 🏢: 삼성전자(samsung electronics) SW Engineer - Solution Product Engineering
 
 ## Let Me Introduce
