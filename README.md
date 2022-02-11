@@ -13,7 +13,7 @@ Good day! I am Hyunwoo Yoon whio is interested in Backend with Spring for Java a
 2021.05 - 2021.07 🏢: 가비아(gabia) - Backend Engineer
 
 #### NOW!! SW Quality Engineer for Memory Device
-2021.09 ~ 🏢: 삼성전자(samsung electronics) SW Engineer - Solution Product Engineering
+2021.09 ~ 🏢: 삼성전자(samsung electronics) SW Engineer - Solution Product Engineering Team - Platform Part
 
 ## Let Me Introduce
 https://quilt-mule-ede.notion.site/6e3a011a239f46bca7d0119af9237bca
